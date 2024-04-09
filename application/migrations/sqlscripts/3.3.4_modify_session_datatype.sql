@@ -1,0 +1,2 @@
+ALTER TABLE `pos_sessions`
+  MODIFY COLUMN `data` MEDIUMBLOB NOT NULL;
